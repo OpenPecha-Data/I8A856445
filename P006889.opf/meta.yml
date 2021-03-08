@@ -10,13 +10,16 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 544
+      base_file: v001.txt
     077fe934dfa04435a56594eeec420e84:
       image_group_id: I1KG9591
       title: ''
       volume_number: 2
       total_pages: 491
+      base_file: v002.txt
     df445d7b71f341f4af779a087ac17467:
       image_group_id: I1KG9592
       title: ''
       volume_number: 3
       total_pages: 631
+      base_file: v003.txt
